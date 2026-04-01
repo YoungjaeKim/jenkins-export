@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# jenkins_export.py output (jenkins_configs_YYYYMMDD_HHMMSS.txt)
+jenkins_configs_*.txt
